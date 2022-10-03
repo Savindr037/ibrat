@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ibrat/static/css/main.73b009fa.css",
+    "main.js": "/ibrat/static/js/main.ea3dddea.js",
+    "static/js/787.bcb2400d.chunk.js": "/ibrat/static/js/787.bcb2400d.chunk.js",
+    "index.html": "/ibrat/index.html",
+    "main.73b009fa.css.map": "/ibrat/static/css/main.73b009fa.css.map",
+    "main.ea3dddea.js.map": "/ibrat/static/js/main.ea3dddea.js.map",
+    "787.bcb2400d.chunk.js.map": "/ibrat/static/js/787.bcb2400d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b009fa.css",
+    "static/js/main.ea3dddea.js"
+  ]
+}
