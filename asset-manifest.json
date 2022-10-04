@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ibrat/static/css/main.2af720ef.css",
-    "main.js": "/ibrat/static/js/main.ea3dddea.js",
+    "main.css": "/ibrat/static/css/main.c933385d.css",
+    "main.js": "/ibrat/static/js/main.8e1f9dbc.js",
     "static/js/787.bcb2400d.chunk.js": "/ibrat/static/js/787.bcb2400d.chunk.js",
     "index.html": "/ibrat/index.html",
-    "main.2af720ef.css.map": "/ibrat/static/css/main.2af720ef.css.map",
-    "main.ea3dddea.js.map": "/ibrat/static/js/main.ea3dddea.js.map",
+    "main.c933385d.css.map": "/ibrat/static/css/main.c933385d.css.map",
+    "main.8e1f9dbc.js.map": "/ibrat/static/js/main.8e1f9dbc.js.map",
     "787.bcb2400d.chunk.js.map": "/ibrat/static/js/787.bcb2400d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2af720ef.css",
-    "static/js/main.ea3dddea.js"
+    "static/css/main.c933385d.css",
+    "static/js/main.8e1f9dbc.js"
   ]
 }
